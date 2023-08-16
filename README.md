@@ -4,7 +4,7 @@
  
 ## Hi, I'm <a href="http://welcome.voup.cn"> 国学 enthusiasts (beiwang)</a>
  
-<img align="right" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b><a href="https://voup.cn" > say <b>"hi" </b></a>, <b>I'll be happy to discuss and communicate you more!</b> : )</em></summary>
+<img align="right" width="84" title="Say HI"> <details><summary>(Click to expand) <em> <b>I'll be happy to discuss and communicate you more!</b> : )</em></summary>
  
 <!--my introduction start-->
 
